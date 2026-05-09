@@ -1,4 +1,4 @@
-# AWS Highly Available Scalable Web Application using Terraform
+# AWS Highly Available and Scalable Web Application using Terraform
 
 ## Project Overview
 This project demonstrates a highly available and scalable AWS web application deployment using Terraform Infrastructure as Code (IaC).
